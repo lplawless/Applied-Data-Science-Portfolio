@@ -1,0 +1,52 @@
+Code,State,Abbr,Region Groups 1,Region Groups 2
+1,Alabama,AL,2 South,4 Southeast
+2,Alaska,AK,4 West,8 West
+4,Arizona,AZ,4 West,7 Southwest
+5,Arkansas,AR,3 Midwest,5 Plains
+6,California,CA,4 West,8 West
+8,Colorado,CO,3 Midwest,6 Rocky Mountain
+9,Connecticut,CT,1 Northeast,1 New England
+10,Delaware,DE,1 Northeast,2 Mid-Atlantic
+11,District of Columbia,DC,1 Northeast,2 Mid-Atlantic
+12,Florida,FL,2 South,4 Southeast
+13,Georgia,GA,2 South,4 Southeast
+15,Hawaii,HI,4 West,8 West
+16,Idaho,ID,3 Midwest,6 Rocky Mountain
+17,Illinois,IL,3 Midwest,3 Great Lakes
+18,Indiana,IN,3 Midwest,3 Great Lakes
+19,Iowa,IA,3 Midwest,5 Plains
+20,Kansas,KS,3 Midwest,5 Plains
+21,Kentucky,KY,2 South,4 Southeast
+22,Louisiana,LA,2 South,4 Southeast
+23,Maine,ME,1 Northeast,1 New England
+24,Maryland,MD,1 Northeast,2 Mid-Atlantic
+25,Massachusetts,MA,1 Northeast,1 New England
+26,Michigan,MI,3 Midwest,3 Great Lakes
+27,Minnesota,MN,3 Midwest,5 Plains
+28,Mississippi,MS,2 South,4 Southeast
+29,Missouri,MO,3 Midwest,5 Plains
+30,Montana,MT,3 Midwest,6 Rocky Mountain
+31,Nebraska,NE,3 Midwest,5 Plains
+32,Nevada,NV,4 West,8 West
+33,New Hampshire,NH,1 Northeast,1 New England
+34,New Jersey,NJ,1 Northeast,2 Mid-Atlantic
+35,New Mexico,NM,4 West,7 Southwest
+36,New York,NY,1 Northeast,2 Mid-Atlantic
+37,North Carolina,NC,2 South,4 Southeast
+38,North Dakota,ND,3 Midwest,5 Plains
+39,Ohio,OH,3 Midwest,3 Great Lakes
+40,Oklahoma,OK,3 Midwest,5 Plains
+41,Oregon,OR,4 West,8 West
+42,Pennsylvania,PA,1 Northeast,2 Mid-Atlantic
+44,Rhode Island,RI,1 Northeast,1 New England
+45,South Carolina,SC,2 South,4 Southeast
+46,South Dakota,SD,3 Midwest,5 Plains
+47,Tennessee,TN,2 South,4 Southeast
+48,Texas,TX,2 South,7 Southwest
+49,Utah,UT,3 Midwest,6 Rocky Mountain
+50,Vermont,VT,1 Northeast,1 New England
+51,Virginia,VA,2 South,4 Southeast
+53,Washington,WA,4 West,8 West
+54,West Virginia,WV,2 South,4 Southeast
+55,Wisconsin,WI,3 Midwest,3 Great Lakes
+56,Wyoming,WY,3 Midwest,6 Rocky Mountain
