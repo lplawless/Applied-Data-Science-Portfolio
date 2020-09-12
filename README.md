@@ -23,9 +23,12 @@ Email: lplawless@gmail.com
 	- Birds TEST Cases.sql
 - Report (Bird Boxes Database).docx
 
-#### IST 664 – Natural Language Processing (Work in Progress)
-- Program (Hate Speech Detection).ipynb
-- Report (Hate Speech Detection).ipynb
+#### IST 664 – Natural Language Processing
+- Code and Data (Language Classification - Hate Speech Detection)
+	- hatebase.csv
+	- HatebaseQuery.py
+	- HateSpeechClassifier.py
+- Report (Language Classification - Hate Speech Detection).ipynb
 
 #### IST 687 – Introduction to Data Science
 - Code and Data (California Protected Land Analysis)
